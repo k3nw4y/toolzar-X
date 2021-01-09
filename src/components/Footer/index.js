@@ -7,8 +7,8 @@ export default function Footer() {
     <>
       <div className={styles.footer_conatiner}>
         <div className={styles.footer_copyright}>
-          <h3> Created By Piyush Suthar & Modified by K3nw4Y</h3>{" "}
-          <h6> OPEN SOURCE </h6>{" "}
+          <h3> </h3>{" "}
+          <h6>  </h6>{" "}
         </div>{" "}
         {/* <div className={styles.footer_links}>
           <a
