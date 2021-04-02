@@ -26,18 +26,18 @@ export default {
     }
   ],
   Google: [
-    {
-      category: "YouTube",
-      Name: "Video Downloader",
-      path: "/google/youtube-video",
-      isOfline: false
-    },
-    {
-      category: "YouTube",
-      Name: "MP3 Downloader",
-      path: "/google/youtube-music",
-      isOfline: false
-    },
+    // {
+    //   category: "YouTube",
+    //   Name: "Video Downloader",
+    //   path: "/google/youtube-video",
+    //   isOfline: false
+    // },
+    // {
+    //   category: "YouTube",
+    //   Name: "MP3 Downloader",
+    //   path: "/google/youtube-music",
+    //   isOfline: false
+    // },
     {
       category: "Google Drive",
       Name: "Link Generator",
