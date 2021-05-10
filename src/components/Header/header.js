@@ -9,7 +9,7 @@ export default function header({ title, subtitle, isHomepage }) {
     <div className={styles.header_home_conatainer}>
       <Helmet>
         {isHomepage === true ? (
-          <title>darkdood ooyir</title>
+          <title>Toolzar-X</title>
         ) : (
           <title>{`${title} ${subtitle} - ToolZar X`}</title>
         )}
